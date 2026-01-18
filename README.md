@@ -26,12 +26,11 @@ npm install / npm i
 ```
 ## Variáveis de ambiente
 Crie um arquivo .env na raiz do projeto:
-```
 DATABASE_URL="file:./dev.db"
 ```
 
 # Prisma
-```
+```bash
 npx prisma generate
 
 npx prisma migrate dev
