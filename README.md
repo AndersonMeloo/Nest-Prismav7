@@ -33,7 +33,9 @@ DATABASE_URL="file:./dev.db"
 # Prisma
 ```
 npx prisma generate
+
 npx prisma migrate dev
+
 npx prisma studio
 ```
 
