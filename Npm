@@ -1,0 +1,3 @@
+nest g res users
+
+// DTO: Data Transfer Object / Objeto de Transferência de Dados
